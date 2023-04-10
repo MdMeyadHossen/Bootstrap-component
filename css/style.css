@@ -1,0 +1,18 @@
+.c-bar{
+    background-color: #6e2cf2;
+}
+ul li a{
+    text-decoration: none;
+	border-bottom: 1px solid transparent;
+    color: #ffffff;
+}
+.mb-5{
+    display: block;
+}
+.b{
+    border: 1px solid #e1e1e1;
+}
+.c{
+    display: block;
+    float: left;
+}
